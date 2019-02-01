@@ -1,0 +1,27 @@
+{
+  "name": "react-native-frequency-sounds",
+  "version": "0.0.1",
+  "author": "shivali",
+  "private": false,
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shivali123/react-native-play-frequency.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shivali123/react-native-play-frequency/issues"
+  },
+  "homepage": "https://github.com/shivali123/react-native-play-frequencys",
+  "keywords": [
+    "react-native",
+    "android",
+    "library"
+  ],
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.38.0"
+  }
+}
